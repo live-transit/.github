@@ -8,4 +8,4 @@ It consists of a React front-end website, interacting with the open-source LiveD
 ### Supported Locations
 
 #### In Development
-* Hong Kong
+* Hong Kong (香港)
