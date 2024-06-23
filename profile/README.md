@@ -7,5 +7,10 @@ It consists of a React front-end website, interacting with the open-source LiveD
 
 ### Supported Locations
 
+#### Old Releases
+* [Hong Kong (香港)](https://livetransit.sebdoe.com/buses)
+
 #### In Development
-* Hong Kong (香港)
+* United Kingdom
+  * UK-wide bus tracking
+  * TfL train tracking
